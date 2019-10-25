@@ -34,4 +34,13 @@
       </plugin>
     </plugins>
   </build>
+  
+  <distributionManagement>
+    <repository>
+        <id>artifactory</id>
+        <name>Maven_Proj_Artifactory</name>
+        <url>http://localhost:8081/artifactory/Maven_Proj_Artifactory</url>
+    </repository>
+</distributionManagement>
+
 </project>
