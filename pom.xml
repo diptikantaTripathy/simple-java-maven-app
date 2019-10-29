@@ -42,7 +42,6 @@
         <url>http://localhost:8081/artifactory/Maven_Proj_Artifactory</url>
     </repository>
 </distributionManagement>
-
  -->
 <!--  surefire report  -->
  <reporting>
